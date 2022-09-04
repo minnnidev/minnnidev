@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**minnnidev/minnnidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 🐤 Kim Min / 김민 🐤
+  
+  💻 iOS Developer </br>
+  🎂 2000/03/24 </br>
+  📧 minnnidev@gmail.com </br>
+  🎓 Multimedia Engineering, Dongguk University </br>
+  🔗 velog: https://velog.io/@vvkkiie </br>
 
-Here are some ideas to get you started:
+  </br>
+  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🍏 Main Tech 
+
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+
+  </br>
+  </br>
+
+  💻 Learned
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+  
+  
+
+</dic>
