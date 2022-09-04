@@ -1,4 +1,4 @@
-<div align="center">
+
 
   # 🐤 Kim Min / 김민 🐤
   
@@ -11,17 +11,18 @@
   </br>
   </br>
 
-  🍏 Main Tech 
-
+### 🍏 Main Tech 
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
   </br>
   </br>
 
-  💻 Learned
+### 💻 Learned
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   
+  </br>
+  </br>
   
-
-</dic>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minnnidev&show_icons=true&theme=panda)
+  
