@@ -3,7 +3,7 @@
   # 🐤 Kim Min / 김민 🐤
   
   💻 iOS Developer </br>
-  🎂 2000/03/24 </br>
+  🎂 2000.03.24 </br>
   📧 minnnidev@gmail.com </br>
   🎓 Multimedia Engineering, Dongguk University </br>
   🔗 velog: https://velog.io/@vvkkiie </br>
