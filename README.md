@@ -10,7 +10,7 @@
 
 
 
-### Github Stats 📈
+### GitHub Stats 📈
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minnnidev&show_icons=true&theme=discord_old_blurple)
 
