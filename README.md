@@ -13,5 +13,5 @@
 ### Activity 📈
 
 IN SOPT 31st - iOS</br>
-Apple Developer Academy @POSTECH 2nd Runner
+Apple Developer Academy @POSTECH 2nd
 
