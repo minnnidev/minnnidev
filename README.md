@@ -10,7 +10,8 @@
 
 
 
-### GitHub Stats 📈
+### Activity 📈
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minnnidev&show_icons=true&theme=discord_old_blurple)
+IN SOPT 31st - iOS</br>
+Apple Developer Academy @POSTECH 2nd Runner
 
