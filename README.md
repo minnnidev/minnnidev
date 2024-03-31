@@ -1,8 +1,8 @@
 
 
 ##  MINI 💖
- <a href="https://velog.io/@vvkkiie" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@vvkkiie"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minnnidev@gmail.com)](mailto:minnnidev@gmail.com)
- 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minnnidev@gmail.com)](mailto:minnnidev@gmail.com)
+[![Tistory Badge](http://img.shields.io/badge/Tistory-000000??style=flat&logo=Tistory&link=https://don2bye.tistory.com/)](https://don2bye.tistory.com/)
 
 ### Main Tech ⚒️
 
