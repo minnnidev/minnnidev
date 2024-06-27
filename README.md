@@ -2,7 +2,10 @@
 
 ##  MINI 💖
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minnnidev@gmail.com)](mailto:minnnidev@gmail.com)
-[![Tistory Badge](http://img.shields.io/badge/Tistory-000000??style=flat&logo=Tistory&link=https://don2bye.tistory.com/)](https://don2bye.tistory.com/)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@minnnidev)](https://velog.io/@minnnidev)
+
+
+
 
 ### Main Tech ⚒️
 
