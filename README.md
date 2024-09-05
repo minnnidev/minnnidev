@@ -1,20 +1,49 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=D0F8B7&height=200&section=header&text=&fontColor=FFFFFF&fontSize=90" />
+
+*I'm interested in.... 📚*
+
+<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
+</br>
+</br>
 
 
-##  MINI 💖
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minnnidev@gmail.com)](mailto:minnnidev@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@minnnidev)](https://velog.io/@minnnidev)
+*Collaboration Tools I Use 🤝🏻*
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
+</br>
+</br>
+
+*About Me 🍀*
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:minnnidev@gmail.com)](mailto:minnnidev@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@minnnidev)](https://velog.io/@minnnidev)
+
+</br>
+</br>
 
 
+*Stats 📊*
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swiswi9)](https://solved.ac/swiswi9/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnnidev&layout=compact"></br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=minnnidev&show_icons=true">
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
-### Main Tech ⚒️
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminnnidev%2Fhit-counter&count_bg=%23D0F8B7&title_bg=%23555555&icon=&icon_color=%23D0F8B7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+</br>
 
-
-
-### Activity 📈
-
-IN SOPT 31st - iOS</br>
-Apple Developer Academy @POSTECH 2nd 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=D0F8B7&height=200&section=footer&text=&fontColor=FFFFFF&fontSize=90" />
